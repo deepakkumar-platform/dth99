@@ -1,4 +1,4 @@
-# Deepak Kumar — Platform and DevOps Engineer
+# Deepak Kumar | Platform and DevOps Engineer
 
 Practical cloud and platform engineering notes by Deepak Kumar. I focus on building reliable, secure, and scalable cloud infrastructure using Azure, AWS, Kubernetes, Terraform, and automation.
 
@@ -6,15 +6,15 @@ Practical cloud and platform engineering notes by Deepak Kumar. I focus on build
 
 ## About me
 
-I am a platform and DevOps engineer with hands on experience designing, automating, and operating production cloud systems. I work across infrastructure as code, container platforms, CI CD pipelines, cloud networking, and observability. My writing and repositories focus on real world patterns and runbook ready solutions, not theoretical checklists.
+I am a platform and DevOps engineer with hands on experience designing, automating, and operating production cloud systems. I work across infrastructure as code, container platforms, CI CD pipelines, cloud networking, and observability. My repos and posts focus on real world patterns and runbook ready solutions, not theory.
 
 **Core topics**
-- Cloud infrastructure and architecture (Azure, AWS)  
-- Infrastructure as code (Terraform, Bicep)  
-- Containers and orchestration (Docker, Kubernetes, AKS)  
-- CI CD and automation (GitHub Actions, Azure DevOps)  
-- Networking and security (VNet, private endpoints, load balancers, Entra ID)  
-- Observability and incident tooling (Azure Monitor, Log Analytics, Prometheus, Grafana)
+- Cloud infrastructure and architecture Azure and AWS  
+- Infrastructure as code Terraform and Bicep  
+- Containers and orchestration Docker and Kubernetes AKS  
+- CI CD and automation GitHub Actions and Azure DevOps  
+- Networking and security VNet private endpoints load balancers Entra ID  
+- Observability Azure Monitor Log Analytics Prometheus Grafana
 
 ---
 
@@ -22,7 +22,7 @@ I am a platform and DevOps engineer with hands on experience designing, automati
 
 - Diagram driven explanations of cloud architecture  
 - Production troubleshooting notes and postmortem insights  
-- Terraform and reproducible infrastructure examples  
+- Terraform examples and reproducible infrastructure code  
 - Practical guides that help teams ship reliably
 
 ---
@@ -31,7 +31,7 @@ I am a platform and DevOps engineer with hands on experience designing, automati
 
 Cloud: Azure, AWS  
 IaC and automation: Terraform, Bicep, Ansible  
-Containers: Docker, Kubernetes (AKS)  
+Containers: Docker, Kubernetes AKS  
 CI CD: GitHub Actions, Azure DevOps  
 Networking and security: VNet, Private Endpoint, Load Balancers, Entra ID  
 Observability: Azure Monitor, Log Analytics, Prometheus, Grafana  
@@ -41,24 +41,17 @@ OS and scripting: Linux, Bash
 
 ## Current work and projects
 
-- Building an open source project for reproducible infra setups  
+- Building an open source toolkit for reproducible infra setups  
 - Automating environment provisioning with Ansible and Terraform  
 - Writing practical posts on Hashnode and LinkedIn about cloud reliability
 
 ---
 
-## Writing and profiles
-
-- Blog: https://deepakkumar2o.hashnode.dev  
-- LinkedIn: https://www.linkedin.com/in/deepakkumar2o/  
-- Portfolio and contact: (email in profile or GitHub contact)
-
----
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumar2o/)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-Deepak%20Kumar-2ea44f?style=for-the-badge&logo=hashnode&logoColor=white)](https://deepakkumar2o.hashnode.dev)
+<a href="https://www.linkedin.com/in/deepakkumar2o/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://deepakkumar2o.hashnode.dev"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-Deepak%20Kumar-2ea44f?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
 ---
 
@@ -68,7 +61,4 @@ OS and scripting: Linux, Bash
 
 ---
 
-If you want, I can:
-- generate a short repo README template you can reuse for pinned repos  
-- create a small index page that links your top posts to the GitHub profile which helps SEO  
-Tell me which one you want next and I will draft it.
+If you want a ready to use README for pinned repos or a small index page that links top posts to this profile for SEO, tell me which one and I will draft it.
