@@ -1,65 +1,74 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there,+I'm+Deepak+Kumar!)](https://git.io/typing-svg)<br>
-🚀 **DevOps | SRE | Cloud Infra | Automation Enthusiast**  
-📍 Based in India | 🌐 Working with Linux, Azure, Docker, Terraform & CI/CD  
-🎯 Passionate about building reliable systems and simplifying ops through automation
+# Deepak Kumar — Platform and DevOps Engineer
+
+Practical cloud and platform engineering notes by Deepak Kumar. I focus on building reliable, secure, and scalable cloud infrastructure using Azure, AWS, Kubernetes, Terraform, and automation.
 
 ---
 
-### 👨‍💻 About Me
+## About me
 
-I'm a DevOps/Site Reliability Engineer with hands-on experience in building, automating, and managing scalable cloud-native infrastructures. I’ve worked on everything from hardening Linux systems to provisioning end-to-end environments and deploying robust CI/CD pipelines. Whether it's scripting with Bash, managing IaC with Terraform, or setting up monitoring with Prometheus-Grafana—I love solving real-world infrastructure problems.
+I am a platform and DevOps engineer with hands on experience designing, automating, and operating production cloud systems. I work across infrastructure as code, container platforms, CI CD pipelines, cloud networking, and observability. My writing and repositories focus on real world patterns and runbook ready solutions, not theoretical checklists.
 
----
-
-### 🔧 Tech Stack I Work With
-
-- ☁️ **Cloud**: Azure, AWS, GCP (basic), OpenStack  
-- 📦 **Containers**: Docker, Azure Kubernetes Service (AKS), ACR  
-- 🔁 **CI/CD**: Azure DevOps, GitHub Actions  
-- 📜 **IaC & Automation**: Terraform, Ansible, Bash  
-- 📊 **Monitoring**: Prometheus, Grafana  
-- 🐧 **OS**: Linux, Ubuntu, RHEL  
-- 💾 **Database**: MongoDB, MySQL  
-- 🔒 **Security**: OS patching, hardening, Key Vault, truststores  
+**Core topics**
+- Cloud infrastructure and architecture (Azure, AWS)  
+- Infrastructure as code (Terraform, Bicep)  
+- Containers and orchestration (Docker, Kubernetes, AKS)  
+- CI CD and automation (GitHub Actions, Azure DevOps)  
+- Networking and security (VNet, private endpoints, load balancers, Entra ID)  
+- Observability and incident tooling (Azure Monitor, Log Analytics, Prometheus, Grafana)
 
 ---
 
-### 📈 What I'm Currently Up To
+## What I share
 
-- 🔧 Building a Open-source project
-- 💡 Learning more about **Kubernetes**, **GitOps**, and **SRE practices**
-- 🛠️ Automating my infrastructure setup with **Ansible + Terraform**
-- 📚 Sharing my journey & knowledge on [LinkedIn](https://linkedin.com/in/deepak99kumar)
+- Diagram driven explanations of cloud architecture  
+- Production troubleshooting notes and postmortem insights  
+- Terraform and reproducible infrastructure examples  
+- Practical guides that help teams ship reliably
 
 ---
-> "Automate everything, observe relentlessly, and never stop learning."
 
-### 📫 Let's Connect
+## Selected tech stack
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/deepakkumar2o/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:deep99.official@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/dth99"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</div>
+Cloud: Azure, AWS  
+IaC and automation: Terraform, Bicep, Ansible  
+Containers: Docker, Kubernetes (AKS)  
+CI CD: GitHub Actions, Azure DevOps  
+Networking and security: VNet, Private Endpoint, Load Balancers, Entra ID  
+Observability: Azure Monitor, Log Analytics, Prometheus, Grafana  
+OS and scripting: Linux, Bash
 
+---
 
-<!--
-<h3 align="left">Languages</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
--->
+## Current work and projects
 
-<h3 align="left">GitHub Stats</h3>
-<a href="https://github.com/dth99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dth99&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="dth99's github stats" /></a> 
+- Building an open source project for reproducible infra setups  
+- Automating environment provisioning with Ansible and Terraform  
+- Writing practical posts on Hashnode and LinkedIn about cloud reliability
 
-<!--
-<h3 align="left">GitHub Stats</h3>
-<table>
-  <tr>
-    <td><a href="https://github.com/dth99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dth99&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="dth99's github stats" /></a> </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dth99&langs_count=15&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="dth99" /></td>
-    <!--&hide=html,css,php
+---
 
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=dth99&theme=highcontrast&hide_border=true&fire=DD2727&dates=DD2727&stroke=DD2727&currStreakNum=DD2727&ring=DD2727" alt="dth99"/>
-<img align='right' src="https://github.com/dth99/dth99/blob/main/programmer-cycle.gif"height="185" width="305"/>
+## Writing and profiles
 
--->
+- Blog: https://deepakkumar2o.hashnode.dev  
+- LinkedIn: https://www.linkedin.com/in/deepakkumar2o/  
+- Portfolio and contact: (email in profile or GitHub contact)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumar2o/)  
+[![Hashnode](https://img.shields.io/badge/Hashnode-Deepak%20Kumar-2ea44f?style=for-the-badge&logo=hashnode&logoColor=white)](https://deepakkumar2o.hashnode.dev)
+
+---
+
+## GitHub stats
+
+<a href="https://github.com/deepakkumar-platform"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar-platform&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Deepak Kumar github stats" /></a>
+
+---
+
+If you want, I can:
+- generate a short repo README template you can reuse for pinned repos  
+- create a small index page that links your top posts to the GitHub profile which helps SEO  
+Tell me which one you want next and I will draft it.
