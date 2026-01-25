@@ -60,5 +60,3 @@ OS and scripting: Linux, Bash
 <a href="https://github.com/deepakkumar-platform"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar-platform&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Deepak Kumar github stats" /></a>
 
 ---
-
-If you want a ready to use README for pinned repos or a small index page that links top posts to this profile for SEO, tell me which one and I will draft it.
